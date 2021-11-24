@@ -72,6 +72,12 @@ params:
         Title: "Well, hello there! 👋🏻"
         Content: Willkommen zum Neustart des Blogs!
 
+                 - Ich bin von Worpress auf [Hugo](https://gohugo.io) umgestiegen. Siehe auch die entsprechende Rubrik unter [about](https://franks.erratisches.blog/about/#seiten-baumaschine), die werde ich aktualisieren, wenn sich was ändert.
+
+                 - Auf github gibt es eine [Diskussions-Möglichkeit](https://github.com/Mudhenn/FEB/discussions), falls Ihr Fragen, Beschwerden oder Anregungen habt.
+
+                 - Viel Spaß!
+
     socialIcons:
         - name: mastodon
           url: "https://wandel.social/@Mudhenn"
@@ -131,3 +137,5 @@ menu:
 #         guessSyntax: true
 #         lineNos: true
 #         style: monokai
+permalinks:
+  posts: /:year/:month/:title

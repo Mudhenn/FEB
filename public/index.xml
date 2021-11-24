@@ -12,24 +12,33 @@
     <lastBuildDate>Sun, 21 Nov 2021 21:57:56 +0100</lastBuildDate><atom:link href="https://franks.erratisches.blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installieren eines ASUS 168B USB-Displays unter Linux Mint</title>
-      <link>https://franks.erratisches.blog/posts/2021/asus168b/</link>
+      <link>https://franks.erratisches.blog/2021/11/installieren-eines-asus-168b-usb-displays-unter-linux-mint/</link>
       <pubDate>Sun, 21 Nov 2021 21:57:56 +0100</pubDate>
       
-      <guid>https://franks.erratisches.blog/posts/2021/asus168b/</guid>
-      <description>Nachdem ich etwas Schwierigkeiten hatte, mein ASUS 168B unter Linux Mint zum Laufen zu bekommen, habe ich hier mal zusammengefasst, wie es für mich funktioniert hat.
-Vorbedingungen Diesen Teil der Information habe ich von hier.
-Zuerst schauen, dass das System auf dem neuesten Stand ist.
-sudo apt update sudo apt upgrade  Die haben dort noch sudo apt-get dist-upgradestehen, aber das habe ich mir gespart.
-Als nächstes werden das DKMS-Framework und eine Library installiert:</description>
+      <guid>https://franks.erratisches.blog/2021/11/installieren-eines-asus-168b-usb-displays-unter-linux-mint/</guid>
+      <description>Nachmachen auf eigene Gefahr!</description>
     </item>
     
     <item>
       <title>Corona: Lockdown und Impfpflicht</title>
-      <link>https://franks.erratisches.blog/posts/2021/lack-gesoffen/</link>
+      <link>https://franks.erratisches.blog/2021/11/corona-lockdown-und-impfpflicht/</link>
       <pubDate>Sat, 20 Nov 2021 04:03:08 +0100</pubDate>
       
-      <guid>https://franks.erratisches.blog/posts/2021/lack-gesoffen/</guid>
+      <guid>https://franks.erratisches.blog/2021/11/corona-lockdown-und-impfpflicht/</guid>
       <description>Corona-relatiertes Genörgel</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://franks.erratisches.blog/about/</link>
+      <pubDate>Sat, 20 Nov 2021 01:50:25 +0100</pubDate>
+      
+      <guid>https://franks.erratisches.blog/about/</guid>
+      <description>Impressum, das Kleingedruckte und der ganze Rest Kontakt Ok, das mit dem Impressum ist vielleicht ein bisschen gelogen, aber zumindest eine Kontakt-Adresse sollt Ihr haben:
+Am besten erreicht man mich per E-Mail: post@dev0.cloud
+Speziale Medien Mein Mastodon-Account: @mudhenn@wandel.social
+Datenschutz Diese Websweite speichert keinerlei Daten auf Deinem Rechner, weder Cookies noch sonst irgendwelches Zeug.
+Es kann sein, dass eingebundene Medien (I&amp;rsquo;m looking at you, YouTube&amp;hellip;) etwas speichern, aber da bemühe ich mich, so viel wie möglich selber zu hosten oder so datensparsam wie möglich einzubinden.</description>
     </item>
     
     

@@ -34,6 +34,12 @@ Das aktuelle Thema ist [PaperMod](https://github.com/adityatelange/hugo-PaperMod
 
 Danke in diesem Zusammenhang an [Mike Dane](https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw) für seine großartigen [Hugo-Tutorials](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3), ohne die wäre das nie was geworden.
 
+## Wie das alles hier zustande gekommen ist
+
+{{< figure src="/medien2021/codechaos.jpg" alt="Mein Code ist wild zusammengeklöppelt"  >}}
+
+"So ischs halt gworda" (aus: [Die Känguruh Apokryphen "Dabei"](https://books.google.at/books?id=tlNaDwAAQBAJ&lpg=PT78&ots=ARCMvYpwPm&dq=marc-uwe%20kling%20%22so%20ist%20es%20halt%20geworden%22&hl=de&pg=PT78#v=onepage&q=marc-uwe%20kling%20%22so%20ist%20es%20halt%20geworden%22&f=false))
+
 ---
 >"Im übrigen bin ich der Meinung, das Nationalismus keine Alternative, sondern eine Katastrophe ist."
 

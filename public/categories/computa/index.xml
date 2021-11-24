@@ -12,15 +12,11 @@
     <lastBuildDate>Sun, 21 Nov 2021 21:57:56 +0100</lastBuildDate><atom:link href="https://franks.erratisches.blog/categories/computa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installieren eines ASUS 168B USB-Displays unter Linux Mint</title>
-      <link>https://franks.erratisches.blog/posts/2021/asus168b/</link>
+      <link>https://franks.erratisches.blog/2021/11/installieren-eines-asus-168b-usb-displays-unter-linux-mint/</link>
       <pubDate>Sun, 21 Nov 2021 21:57:56 +0100</pubDate>
       
-      <guid>https://franks.erratisches.blog/posts/2021/asus168b/</guid>
-      <description>Nachdem ich etwas Schwierigkeiten hatte, mein ASUS 168B unter Linux Mint zum Laufen zu bekommen, habe ich hier mal zusammengefasst, wie es für mich funktioniert hat.
-Vorbedingungen Diesen Teil der Information habe ich von hier.
-Zuerst schauen, dass das System auf dem neuesten Stand ist.
-sudo apt update sudo apt upgrade  Die haben dort noch sudo apt-get dist-upgradestehen, aber das habe ich mir gespart.
-Als nächstes werden das DKMS-Framework und eine Library installiert:</description>
+      <guid>https://franks.erratisches.blog/2021/11/installieren-eines-asus-168b-usb-displays-unter-linux-mint/</guid>
+      <description>Nachmachen auf eigene Gefahr!</description>
     </item>
     
   </channel>
