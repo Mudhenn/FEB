@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on franks.erratisches.blog</title>
+    <link>https://franks.erratisches.blog/categories/</link>
+    <description>Recent content in Categories on franks.erratisches.blog</description>
+    <image>
+      <url>https://franks.erratisches.blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://franks.erratisches.blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 21 Nov 2021 21:57:56 +0100</lastBuildDate><atom:link href="https://franks.erratisches.blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>computa!</title>
+      <link>https://franks.erratisches.blog/categories/computa/</link>
+      <pubDate>Sun, 21 Nov 2021 21:57:56 +0100</pubDate>
+      
+      <guid>https://franks.erratisches.blog/categories/computa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Politik</title>
+      <link>https://franks.erratisches.blog/categories/politik/</link>
+      <pubDate>Sat, 20 Nov 2021 04:03:08 +0100</pubDate>
+      
+      <guid>https://franks.erratisches.blog/categories/politik/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
