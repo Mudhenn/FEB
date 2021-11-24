@@ -94,7 +94,7 @@ params:
         hiddenInSingle: false # hide on single page
 
     editPost:
-        URL: "https://github.com/Mudhenn/FEB/content"
+        URL: "https://github.com/Mudhenn/FEB/tree/main/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
