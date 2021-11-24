@@ -61,5 +61,5 @@ Aber was ich eigentlich sagen wollte: Google schnorchelt mir zu viel, ich habe m
 
 Coverbild von <a href="https://unsplash.com/@leekos?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kostiantyn Li</a> auf <a href="https://unsplash.com/s/photos/big-brother?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 <br>
-Bildwitz unten von <a href="https://www.patreon.com/Offkeycomics">OffKeyComics</a>
+Bildwitz unten von <a href="https://www.patreon.com/Offkeycomics">OffKeyComics</a> via PeErNull.
 {{< /imagecredits >}}
