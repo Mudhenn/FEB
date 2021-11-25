@@ -28,7 +28,7 @@ Serverseitig speichere ich nichts, mein Provider nur die notwendigen Daten.
 
 ## Seiten-Baumaschine
 
-Der ganzen Humbug hier wird in [Hugo](https://gohugo.io) zusammengeklöppelt.
+Der ganze Humbug hier wird in [Hugo](https://gohugo.io) zusammengeklöppelt.
 
 Das aktuelle Thema ist [PaperMod](https://github.com/adityatelange/hugo-PaperMod)
 
